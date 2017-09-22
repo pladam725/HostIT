@@ -1,15 +1,15 @@
 //
-//  HostITTests.swift
-//  HostITTests
+//  host_itTests.swift
+//  host_itTests
 //
 //  Created by Adam Plotzker on 9/13/17.
 //  Copyright © 2017 Adam Plotzker. All rights reserved.
 //
 
 import XCTest
-@testable import HostIT
+@testable import host_it
 
-class HostITTests: XCTestCase {
+class host_itTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

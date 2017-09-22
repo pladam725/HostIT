@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5B37D0A51F69F7640048196E"
-               BuildableName = "HostIT.app"
-               BlueprintName = "HostIT"
-               ReferencedContainer = "container:HostIT.xcodeproj">
+               BlueprintIdentifier = "5B37D0E21F6A0C9F0048196E"
+               BuildableName = "host_it.app"
+               BlueprintName = "host_it"
+               ReferencedContainer = "container:host_it.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5B37D0B91F69F7640048196E"
-               BuildableName = "HostITTests.xctest"
-               BlueprintName = "HostITTests"
-               ReferencedContainer = "container:HostIT.xcodeproj">
+               BlueprintIdentifier = "5B37D0F61F6A0CA00048196E"
+               BuildableName = "host_itTests.xctest"
+               BlueprintName = "host_itTests"
+               ReferencedContainer = "container:host_it.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5B37D0C41F69F7650048196E"
-               BuildableName = "HostITUITests.xctest"
-               BlueprintName = "HostITUITests"
-               ReferencedContainer = "container:HostIT.xcodeproj">
+               BlueprintIdentifier = "5B37D1011F6A0CA00048196E"
+               BuildableName = "host_itUITests.xctest"
+               BlueprintName = "host_itUITests"
+               ReferencedContainer = "container:host_it.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5B37D0A51F69F7640048196E"
-            BuildableName = "HostIT.app"
-            BlueprintName = "HostIT"
-            ReferencedContainer = "container:HostIT.xcodeproj">
+            BlueprintIdentifier = "5B37D0E21F6A0C9F0048196E"
+            BuildableName = "host_it.app"
+            BlueprintName = "host_it"
+            ReferencedContainer = "container:host_it.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5B37D0A51F69F7640048196E"
-            BuildableName = "HostIT.app"
-            BlueprintName = "HostIT"
-            ReferencedContainer = "container:HostIT.xcodeproj">
+            BlueprintIdentifier = "5B37D0E21F6A0C9F0048196E"
+            BuildableName = "host_it.app"
+            BlueprintName = "host_it"
+            ReferencedContainer = "container:host_it.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5B37D0A51F69F7640048196E"
-            BuildableName = "HostIT.app"
-            BlueprintName = "HostIT"
-            ReferencedContainer = "container:HostIT.xcodeproj">
+            BlueprintIdentifier = "5B37D0E21F6A0C9F0048196E"
+            BuildableName = "host_it.app"
+            BlueprintName = "host_it"
+            ReferencedContainer = "container:host_it.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
