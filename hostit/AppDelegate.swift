@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  host_it
+//  hostit
 //
-//  Created by Adam Plotzker on 9/13/17.
+//  Created by Adam Plotzker on 9/23/17.
 //  Copyright © 2017 Adam Plotzker. All rights reserved.
 //
 

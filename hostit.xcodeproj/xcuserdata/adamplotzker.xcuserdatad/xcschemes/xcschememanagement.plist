@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>host_it.xcscheme</key>
+		<key>hostit.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5B37D0E21F6A0C9F0048196E</key>
+		<key>5BBC536E1F76F0B700C721AA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5B37D0F61F6A0CA00048196E</key>
+		<key>5BBC53821F76F0B700C721AA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5B37D1011F6A0CA00048196E</key>
+		<key>5BBC538D1F76F0B800C721AA</key>
 		<dict>
 			<key>primary</key>
 			<true/>

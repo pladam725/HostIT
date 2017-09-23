@@ -1,14 +1,14 @@
 //
-//  host_itUITests.swift
-//  host_itUITests
+//  hostitUITests.swift
+//  hostitUITests
 //
-//  Created by Adam Plotzker on 9/13/17.
+//  Created by Adam Plotzker on 9/23/17.
 //  Copyright © 2017 Adam Plotzker. All rights reserved.
 //
 
 import XCTest
 
-class host_itUITests: XCTestCase {
+class hostitUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
