@@ -7,8 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5BB83AC61F78336B00793736 /* DefineHostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB83AC51F78336B00793736 /* DefineHostViewController.swift */; };
 		5BBC53731F76F0B700C721AA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBC53721F76F0B700C721AA /* AppDelegate.swift */; };
-		5BBC53751F76F0B700C721AA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBC53741F76F0B700C721AA /* ViewController.swift */; };
+		5BBC53751F76F0B700C721AA /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBC53741F76F0B700C721AA /* MapViewController.swift */; };
 		5BBC53781F76F0B700C721AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BBC53761F76F0B700C721AA /* Main.storyboard */; };
 		5BBC537A1F76F0B700C721AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BBC53791F76F0B700C721AA /* Assets.xcassets */; };
 		5BBC537D1F76F0B700C721AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BBC537B1F76F0B700C721AA /* LaunchScreen.storyboard */; };
@@ -34,9 +35,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5BB83AC51F78336B00793736 /* DefineHostViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefineHostViewController.swift; sourceTree = "<group>"; };
 		5BBC536F1F76F0B700C721AA /* hostit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hostit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BBC53721F76F0B700C721AA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5BBC53741F76F0B700C721AA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5BBC53741F76F0B700C721AA /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		5BBC53771F76F0B700C721AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5BBC53791F76F0B700C721AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5BBC537C1F76F0B700C721AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -98,7 +100,8 @@
 			isa = PBXGroup;
 			children = (
 				5BBC53721F76F0B700C721AA /* AppDelegate.swift */,
-				5BBC53741F76F0B700C721AA /* ViewController.swift */,
+				5BBC53741F76F0B700C721AA /* MapViewController.swift */,
+				5BB83AC51F78336B00793736 /* DefineHostViewController.swift */,
 				5BBC53761F76F0B700C721AA /* Main.storyboard */,
 				5BBC53791F76F0B700C721AA /* Assets.xcassets */,
 				5BBC537B1F76F0B700C721AA /* LaunchScreen.storyboard */,
@@ -259,8 +262,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BBC53751F76F0B700C721AA /* ViewController.swift in Sources */,
+				5BBC53751F76F0B700C721AA /* MapViewController.swift in Sources */,
 				5BBC53731F76F0B700C721AA /* AppDelegate.swift in Sources */,
+				5BB83AC61F78336B00793736 /* DefineHostViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +511,7 @@
 				5BBC53991F76F0B800C721AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BBC539A1F76F0B800C721AA /* Build configuration list for PBXNativeTarget "hostitTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +520,7 @@
 				5BBC539C1F76F0B800C721AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BBC539D1F76F0B800C721AA /* Build configuration list for PBXNativeTarget "hostitUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +529,7 @@
 				5BBC539F1F76F0B800C721AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
